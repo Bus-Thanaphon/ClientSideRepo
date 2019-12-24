@@ -1,1 +1,2 @@
-this is text file
+this is text file, change to the end of the file
+this i a new line
